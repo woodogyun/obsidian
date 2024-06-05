@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "0f19b750e3f2250f",
+    "type": "split",
+    "children": [
+      {
+        "id": "00045178f24d2668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5935fd754565cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAds/TO-DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1aaf7b3a0659f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAds/TO-DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb01dab1efff249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAds/클라이언트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca873b3ef7380e8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef33dd578a5140a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039a5ea9ef03dc39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "994444e85aef031d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8097123d1f98e9da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7289dddf5c200d64",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf72dee48d21c906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30b8775722b2a28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PAds/클라이언트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a0f61794a59ae56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PAds/클라이언트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcc5f9d53c9669a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81fa23edf59a29a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PAds/클라이언트.md"
+              }
+            }
+          },
+          {
+            "id": "d55de75808f5df81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "bfb01dab1efff249",
+  "lastOpenFiles": [
+    "obsidian/README.md",
+    "obsidian",
+    "PAds/무제 파일.md",
+    "PAds/TO-DO.md",
+    "PAds",
+    "PAds/파일명.md",
+    "PAds/클라이언트.md",
+    "PAds/API.md"
+  ]
+}
